@@ -1,5 +1,6 @@
 Impacts of Robotics in Computer Science
 
+introduction:
 Computer Science, as a discipline, started in 1905. Within the first twenty years,
 the discipline developed its internal areas, including programming, computational theories,
 programming languages design, and operating systems among others (Hopcroft, 1986).
@@ -12,12 +13,36 @@ development of robots and robotics (Fagin & Laurence, 2003). By definition, robo
 that is concerned with the design, development and application of robots. Physical robots contain some elements of
 artificial intelligence and programmable software- an aspect that is supported by computer science.  
 
-The application of robotics has, and continues to impact on computer science in a significant way.
+    The application of robotics has, and continues to impact on computer science in a significant way.
 Research and practical use of robotics in computer science, primarily focused on instrumentation, robot design, sensors,
 and control theory, have a substantial impact on computer science and its applications. Mobile robots are used to teach 
 introductory courses in computer science. They eliminate C|S inherent difficulties thus helping to
 make CS a ‘personal’ discipline, and extending its applications to areas and conditions unfavorable for human beings.
 Additionally, continued development of robotics will require that CS curriculum be changed to feature in Robotics as a branch of CS.
+
+    Robot design presents a new computer engineering challenge that will lead to significant improvements in the costs
+    of manufacturing 
+    and the quality of finished products. Traditionally, computer science focused on abstract concepts used
+    ton of symbolically represent objects. Robotics brings in a new ability of substantially modifying traditional abstraction,
+    design, and assembling concepts. Before then, developers thought of an object in terms of size and shapes. 
+    However, robotics gives the potential of designing an object with intrinsic functionalities. 
+    The representation of objects according to their functionalities leads to new design methodologies and paradigms.
+    Further, the rapid development of robotics creates a new need for changing the computer science curriculum in institutions 
+    of high learning, and a shift from the current study of discrete mathematics be replaced with traditional mathematics. 
+
+    The introduction of robotics in computer science has broadened the application areas for computer science, 
+besides increasing efficiency and output.  Robots are being used to develop complex systems that were traditionally 
+difficult for human developers.  Complex systems have many components and modules that make it difficult for human
+developers to model and design. Robotics provides automated design methods that are used to design such systems
+with a lot of accuracies and high precision. Semi-autonomous robots or remotely controlled robots are used in conditions
+that are not conducive for humans and areas requiring high precisions such s welding, where human beings cannot withstand.
+Such applications have impacted other fields such as space exploration and aquatic exploration, among others,
+all areas where computer science previously had little impact.
+
+
+
+
+
 
 
 
