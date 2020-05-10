@@ -57,6 +57,31 @@ It requires great motivation and inspiration to make the discipline be appreciat
     intrinsic motivation to instructors and students alike, inspiring them to explore the science and engineering behind it. 
     For curiosity purposes, in addition to fun, and show off-reasons, students pursue robotics with great interests that 
     result in significant innovations.
+ 
+            Additionally, computer programming is a notorious task for many students. Reliance on regular practice in the form of 
+ application and reflection does not work well with students at the introductory level. Providing such students with 
+ programmable robots would facilitate an engaging learning environment. Students gain both practical experience and 
+ intuitive feedback from the robots (Scott et al., 2015). This makes it easy for students to learn new programming languages 
+ and apply them. Mobile robotics, in particular, is used as educational vehicles for teaching principles of complex systems,
+ engineering, and development. One would think that the introduction of robotic in computer science serves to
+ increase ‘the difficulty’ associated with computer science rather than eliminating it. However, the fact is that robotics 
+ promise to make students and scientists learn and apply their knowledge in advanced and sophisticated systems' design and 
+ development (Guzdial & Barbara, 2016). In the new future, further explorations will lead to the development of frameworks 
+ and libraries that will be used in combination with other ideas to create a more meaningful and accessible, intellectually
+ exciting and challenging medium for teaching other disciplines too. 
+ 
+            The development of robotics also creates new job opportunities in the computer science field.  
+ This is in contrast with previous arguments that artificial intelligence, which is at the core of robotics 
+ engineering, will lead to massive unemployment in most sectors of the economy. As the information age shift to automation,
+ robotics engineers, technicians, operators, software developers, and salespersons professionals and skills will be in high
+ demand. Although the idea of robots and robotics is to imitate human beings autonomously, they still need skilled personnel
+ to operate them. The operation could be either remotely or through physical interaction with the robots. 
+ The world will need skills to design robots, develop embedded software applications, and repair these robots. 
+ This creates new jobs and professions in computer science. To maximize output, robotics operators will be needed to work 
+ in shifts. This creates a need for skilled persons to operate robots. Additionally, robots can work in 'dull, dirty' 
+ dangerous environments. This allows computer scientists to top focus on creativity and innovation that will consequently 
+ result in an improved world.
+
 
 
 
@@ -72,6 +97,9 @@ Blank, S. D. (2006, June 06). Robots make computer science personal. Communicati
 Gómez, d.-G., Jesús, M., Anthony, M., Jesus, F. L., & Alfonso, G. C. (2014). Mobile robot lab project to introduce
 engineering students to fault diagnosis in mechatronic systems. IEEE Transactions on Education, 58(3), 187-193.
 
+Guzdial, M., & Barbara, E. (2016). Introduction to computing and programming in python. Pearson.
 
+Scott, M. J., Steve, C., Stanislao, L., Stephen, S., Allan, T., Martin, S., & Gheorghita, G. (2015). Enhancing practice and 
+achievement in introductory programming with a robot Olympics. IEEE Transactions on Education, 58(4), 249-254.
 
 
