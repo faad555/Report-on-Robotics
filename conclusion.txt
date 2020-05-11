@@ -1,0 +1,7 @@
+Conclusion
+This review was undertaken to evaluate the impact that robotics has had in computer science and other fields. 
+Our report has identified that robotics has had a major impact in computer science, industry, healthcare and education. 
+These findings suggest that in general robotics is transformative because of its ability to raise efficiency and safety levels, and to transform work practices. 
+The scope of this investigation was limited in terms of the number of domains we could cover therefore we haven’t assessed if robotics will be transformative across all fields. 
+Notwithstanding the relatively limited number of areas of study covered, this analysis offers valuable insights into the broad impact that robotics has had across several fields and demonstrated the transdisciplinary nature of robotics. 
+A further exploration could be done to evaluate the impact of robotics in other fields. Additionally in another review we could assess predictions regarding the future of robotics.
