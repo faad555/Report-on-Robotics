@@ -1,0 +1,5 @@
+Abstract
+In this report we investigated the impact that robotics has had in several fields. 
+We explored the influence of robotics in computer science, industry, healthcare and education . 
+We found that robotics has impacted the chosen fields significantly. 
+Implications of the report and areas for future review are also presented.
